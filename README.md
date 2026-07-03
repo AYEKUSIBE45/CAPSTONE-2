@@ -1,4 +1,4 @@
-# The  Dano Airlines ( interactive dashboard creation using power bi)
+# The  Dano Airlines Analysis
 ## Project Objectives 
 To examine passenger feedback and flight-related data in order to identify the main drivers of customer satisfaction, uncover areas requiring improvement, and support management in making informed decisions to enhance the overall customer experience.
  ## Data set used 
